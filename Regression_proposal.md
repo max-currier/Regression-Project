@@ -5,7 +5,7 @@ I plan to use regression analysis to predict how many points an NBA player will 
 # Data Description:
 
 I will scrape https://www.nba.com/stats/alltime-leaders/ for the top 1,315 (total # of players I have access to on the page) scorers in NBA history. 
-I will also scrape for additioinal information form each players carrer stats link.
+I will also scrape for additioinal information from each players carrer stats link.
 
 # Tools: 
 
