@@ -1,6 +1,6 @@
 Question/ Need:
 
-I plan to use regression analysis to look into what are the predicting factors that influence how many points an NBA player will score in their carrer.
+I plan to use regression analysis to predict how many points an NBA player will score in their carrer given a set of features for each player.
 
 Data Description:
 
