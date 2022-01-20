@@ -1,17 +1,17 @@
-Question/ Need:
+# Question/ Need:
 
 I plan to use regression analysis to predict how many points an NBA player will score in their carrer given a set of features for each player.
 
-Data Description:
+# Data Description:
 
-I will scrape the Wikipedia page "List of National Basketball Association career scoring leaders" for the top 50 scorers in NBA history. 
-I will also scrape for additioinal information form each players personal Wikipedia page.
+I will scrape https://www.nba.com/stats/alltime-leaders/ for the top 1,315 (total # of players I have access to on the page) scorers in NBA history. 
+I will also scrape for additioinal information form each players carrer stats link.
 
-Tools:
+# Tools: 
 
 I will be using Python, Beautiful Soup, Numpy, Seaborn, Matplotlib, Scikit-learn, Pandas, Statsmodels, and maybe Selenium.
 Other Regression tools.
 
-MVP Goal:
+# MVP Goal:
 
-For the top 50 NBA scorers, gather 10 usable factors that cane be used in regression analysis.
+Do some regression analysis on the data and gain inference into what features contribute to how many points an NBA player will score in their carrer.
